@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **youseftareq33@gmail.com**
 
-- 📄 Know about my experiences [https://cdn.discordapp.com/attachments/1209910856482295832/1209913530074005504/1202057_YousefSharbi_CV.pdf?ex=65e8a6c8&is=65d631c8&hm=163c125e7405f09d70c4e2d1594dfcd402097fff7ce8a4f87983102b71fdbc0a&](https://cdn.discordapp.com/attachments/1209910856482295832/1209913530074005504/1202057_YousefSharbi_CV.pdf?ex=65e8a6c8&is=65d631c8&hm=163c125e7405f09d70c4e2d1594dfcd402097fff7ce8a4f87983102b71fdbc0a&)
+- 📄 Know about my experiences [Yousef-Sharbi_CV](https://drive.google.com/file/d/1xFTjBU6qwX-ZMeZmakmCkJxP2OzWaUdM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

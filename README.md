@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **youseftareq33@gmail.com**
 
-- 📄 Know about my experiences [Yousef-Sharbi_CV](https://drive.google.com/file/d/1m8yiB6J07so2oqdsEX5AOuLu4wN4fjn5/view?usp=sharing)
+- 📄 Know about my experiences [Yousef-Sharbi_CV](https://drive.google.com/file/d/1DnHAK0odo32DUrbPAyIhcDCuRpZNlL4m/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

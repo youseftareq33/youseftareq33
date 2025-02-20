@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Sharbi</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youseftareq33&label=Profile%20views&color=0e75b6&style=flat" alt="youseftareq33" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=youseftareq33&label=Profile%20views&color=0e75b6&style=flat" alt="youseftareq33" /> </p>
 
 - 📫 How to reach me **youseftareq33@gmail.com**
 

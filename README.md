@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yousef Sharbi</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=youseftareq33&label=Profile%20views&color=0e75b6&style=flat" alt="youseftareq33" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=youseftareq33&label=Profile%20views&color=0e75b6&style=flat" alt="youseftareq33" /> </p>
+<br>
 - 📫 How to reach me **youseftareq33@gmail.com**
 
 - 📄 Know about my experiences [Yousef-Sharbi_CV](https://drive.google.com/file/d/1DnHAK0odo32DUrbPAyIhcDCuRpZNlL4m/view?usp=sharing)
 
 - 🌐 Check out my portfolio: [Yousef Sharbi Portfolio](https://youseftareq33.github.io/Portfolio_yousef-sharbi/)
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yousef_sharbeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yousef_sharbeh" height="30" width="40" /></a>
@@ -19,11 +19,9 @@
 <a href="https://www.leetcode.com/yousef_sharbeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yousef_sharbeh" height="30" width="40" /></a>
 <a href="http://discordapp.com/users/877285427395063818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MxPKhwqC" height="30" width="40" /></a>
 </p>
-
-
 <br>
+
 <h2 align="left"> 💻Tools and Technology: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
-<br>
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -88,16 +86,17 @@
   </a>
 </p>
 
-
+<br>
 <p>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=youseftareq33&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=false&bg_color=151515&title_color=1f6fea&text_color=fff&icon_color=fff" alt = "youseftareq33" width = 400 />
 </p>
+
+<br>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=youseftareq33&show_icons=true&locale=en&theme=highcontrast&bg_color=151515&title_color=1f6fea&text_color=fff" alt="youseftareq33" width = 400 hight=2000/>
 </p>
 
-<p align="center">
-  ![Ocean Wave](https://camo.githubusercontent.com/f05e5dfdc431bdd7b3fa8115063607f4e4d40a095b818f06c7c1c96dd23b48a8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3135302673656374696f6e3d666f6f746572)
+<br>
 
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=3480fa&height=150&section=footer)

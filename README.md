@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youseftareq33&label=Profile%20views&color=0e75b6&style=flat" alt="youseftareq33" /> </p>
 <br>
+
 - 📫 How to reach me [**youseftareq33@gmail.com**](mailto:youseftareq33@gmail.com)
 
 - 📄 Know about my experiences [Yousef-Sharbi_CV](https://drive.google.com/file/d/1DnHAK0odo32DUrbPAyIhcDCuRpZNlL4m/view?usp=sharing)
@@ -58,7 +59,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flask_logo.svg/600px-Flask_logo.svg.png" alt="flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-Logo.png" alt="flutter" width="40" height="40"/>
